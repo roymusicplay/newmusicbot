@@ -14,29 +14,29 @@ async def start_(client: Client, message: Message):
 I am Devil Music Bot, an open-source bot that lets you play music in your Telegram groups voice chat.
 This bot is based on su music project and hamkers vc bot. 
 
-To add in your group contact us at @devilcodes_network
+To add in your group contact us at @abhinasroy
 
 Use the buttons below to know more about me.""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://github.com/edguru/devilsmusic"
+                        "⚒𝗙𝗔𝗧𝗛𝗘𝗥", url="https://t.me/abhinasroy"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/devilcodes_network"
+                        "💬 𝗚𝗥𝗢𝗨𝗣", url="https://t.me/DOSTI_GROUP_1234"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/devilcodes_inc"
+                        "𝗩𝗖 𝗣𝗟𝗔𝗬𝗘𝗥 🔈", url="https://t.me/roy_music1"
                     ),
                     InlineKeyboardButton(
-                        "offtopic 😈", url="https://t.me/devils_crazy_chats" )
+                        "𝗕𝗢𝗧 😈", url="https://t.me/MOVIE_CHANNEL_1234" )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Donate the coder", url="https://www.paypal.me/devilgaurav"
+                        "𝗔𝗕𝗛𝗜𝗡𝗔𝗦", url="https://t.me/abhinasroy"
                     )
                 ]
             ]
